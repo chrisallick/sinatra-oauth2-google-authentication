@@ -8,3 +8,7 @@ create/modify config.rb to have the following
 ENV['G_API_CLIENT'] = "..."
 
 ENV['G_API_SECRET'] = "..."
+
+# other
+
+If you want to restrict the domain that can login, the :hd parameter does that.
